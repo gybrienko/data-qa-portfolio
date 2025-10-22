@@ -1,0 +1,1 @@
+"Road to becoming a Data QA / AI Testing specialist. Mentor-guided program by GPT-5."
